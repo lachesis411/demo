@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ISFJ_v2_0_119_2_BAISC_JDK14.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/QRCode.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/XmlSchema-1.4.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/activation-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-core-2.4.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-sms-3.0.0-rc1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/allinpay-security.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ant.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/antlr-2.7.6rc1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aopalliance-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/asm-3.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/asm-commons-3.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aspectjrt.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aspectjweaver.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aurigadoc.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axiom-api-1.2.10.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axiom-dom-1.2.10.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axiom-impl-1.2.10.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis-ant-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-adb-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-adb-codegen-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-codegen-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-java2wsdl-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-kernel-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-transport-http-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-transport-local-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bcprov-jdk14-119.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bcprov-jdk15-141.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bcprovs-1.31.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bocomm-netsign1.8.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bocommapi1.7.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bsh-1.2b3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/c3p0-0.9.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/cglib-2.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-codec-1.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-collections-3.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-dbcp-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-dbutils-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-digester-2.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-discovery-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-fileupload-1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-io-2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-lang-2.5.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-lang3-3.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-pool-1.5.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-pool2-2.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/cxf-2.3.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/easymock-3.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/freemarker-2.3.19.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ganymed-ssh2-build210.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/gson-2.2.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/hsqldb.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/httpclient-4.1.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/httpcore-4.1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/java_memcached_jdk6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jaxen-1.1-beta-6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jaxen-1.1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jaxrpc-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jdom-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jedis-2.7.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jettison-1.0.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jibx-run-1.1-beta3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jmagick-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/json-lib-2.3-jdk15.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jsse.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jta.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jxl.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/log4j-1.2.15.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mail-1.4.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mybatis-3.2.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mybatis-generator-core-1.3.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mybatis-spring-1.2.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/neethi-2.0.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/neusoft-filebase-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ognl-3.0.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ojdbc14.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/quartz-1.6.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/saaj.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/sapjco.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/slf4j-api-1.6.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.6.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/smtp.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-aop-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-aspects-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-beans-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-context-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-context-support-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-core-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-expression-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-framework-bom-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-instrument-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-jdbc-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-jms-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-orm-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-oxm-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-test-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-tx-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-web-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-webmvc-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-webmvc-portlet-4.0.4.RELEASE.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/stax-api-1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-convention-plugin-2.3.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-core-2.3.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-dojo-plugin-2.3.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-json-plugin-2.3.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-junit-plugin-2.3.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-spring-plugin-2.3.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/uniecs-1.5.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/velocity-1.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/velocity-tools-generic-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/velocity-tools-view-1.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/webserviceutils.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/woden-api-1.0M8.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/woden-impl-dom-1.0M8.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/wsdl4j-1.6.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/wstx-asl-3.2.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xbean-2.1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xercesImpl-2.8.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xml-apis-1.3.02.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xmlbean.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xpp3_min-1.1.4c.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xstream-1.3.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xwork-core-2.3.16.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-core-3.2.3.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-cs-2.1.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-dysmsapi-1.0.0.jar!/" />
+    <conelement value="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/src" expected_position="0" />
+      <src_folder value="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/conf" expected_position="1" />
+      <src_folder value="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/vframework" expected_position="2" />
+      <src_folder value="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/docs" expected_position="3" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi">
+      <sourceFolder url="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/conf" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/vframework" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/docs" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="ISFJ_v2_0_119_2_BAISC_JDK14.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ISFJ_v2_0_119_2_BAISC_JDK14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="QRCode.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/QRCode.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="XmlSchema-1.4.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/XmlSchema-1.4.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/activation-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aliyun-java-sdk-core-2.4.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-core-2.4.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aliyun-java-sdk-sms-3.0.0-rc1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-sms-3.0.0-rc1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="allinpay-security.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/allinpay-security.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ant.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr-2.7.6rc1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/antlr-2.7.6rc1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aopalliance-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aopalliance-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-3.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/asm-3.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm-commons-3.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/asm-commons-3.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjrt.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aspectjrt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjweaver.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aspectjweaver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aurigadoc.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aurigadoc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axiom-api-1.2.10.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axiom-api-1.2.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axiom-dom-1.2.10.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axiom-dom-1.2.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axiom-impl-1.2.10.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axiom-impl-1.2.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis-ant-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis-ant-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-adb-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-adb-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-adb-codegen-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-adb-codegen-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-codegen-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-codegen-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-java2wsdl-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-java2wsdl-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-kernel-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-kernel-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-transport-http-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-transport-http-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis2-transport-local-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/axis2-transport-local-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk14-119.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bcprov-jdk14-119.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk15-141.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bcprov-jdk15-141.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprovs-1.31.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bcprovs-1.31.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bocomm-netsign1.8.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bocomm-netsign1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bocommapi1.7.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bocommapi1.7.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bsh-1.2b3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/bsh-1.2b3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="c3p0-0.9.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/c3p0-0.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-2.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/cglib-2.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-1.8.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-codec-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-collections-3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbcp-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-dbcp-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbutils-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-dbutils-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester-2.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-digester-2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-discovery-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-discovery-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload-1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-fileupload-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-io-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.5.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-lang-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-lang3-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool-1.5.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-pool-1.5.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool2-2.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/commons-pool2-2.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cxf-2.3.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/cxf-2.3.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="easymock-3.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/easymock-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ezmorph-1.0.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="freemarker-2.3.19.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/freemarker-2.3.19.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ganymed-ssh2-build210.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ganymed-ssh2-build210.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/gson-2.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hsqldb.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/hsqldb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.1.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/httpclient-4.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/httpcore-4.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java_memcached_jdk6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/java_memcached_jdk6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist-3.11.0.GA.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxen-1.1-beta-6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jaxen-1.1-beta-6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxen-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jaxen-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxrpc-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jaxrpc-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdom-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jdom-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jedis-2.7.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jedis-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jettison-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jettison-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jibx-run-1.1-beta3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jibx-run-1.1-beta3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmagick-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jmagick-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-lib-2.3-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/json-lib-2.3-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsse.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jsse.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jta.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jta.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jxl.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/jxl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.15.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/log4j-1.2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail-1.4.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mail-1.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mybatis-3.2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mybatis-3.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mybatis-generator-core-1.3.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mybatis-generator-core-1.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mybatis-spring-1.2.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mybatis-spring-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.39-bin.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="neethi-2.0.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/neethi-2.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="neusoft-filebase-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/neusoft-filebase-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ognl-3.0.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ognl-3.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ojdbc14.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/ojdbc14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="quartz-1.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/quartz-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="saaj.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/saaj.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sapjco.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/sapjco.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.6.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/slf4j-api-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.7.6.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="smtp.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/smtp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aop-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-aop-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-aspects-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-aspects-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-beans-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-beans-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-context-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-context-support-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-context-support-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-core-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-core-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-expression-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-expression-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-framework-bom-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-framework-bom-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-instrument-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-instrument-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jdbc-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-jdbc-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-jms-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-jms-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-orm-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-orm-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-oxm-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-oxm-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-test-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-test-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-tx-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-tx-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-web-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-web-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-webmvc-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc-portlet-4.0.4.RELEASE.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/spring-webmvc-portlet-4.0.4.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-api-1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/stax-api-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-convention-plugin-2.3.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-convention-plugin-2.3.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-core-2.3.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-core-2.3.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-dojo-plugin-2.3.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-dojo-plugin-2.3.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-json-plugin-2.3.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-json-plugin-2.3.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-junit-plugin-2.3.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-junit-plugin-2.3.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts2-spring-plugin-2.3.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/struts2-spring-plugin-2.3.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="uniecs-1.5.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/uniecs-1.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-1.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/velocity-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-tools-generic-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/velocity-tools-generic-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-tools-view-1.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/velocity-tools-view-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webserviceutils.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/webserviceutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="woden-api-1.0M8.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/woden-api-1.0M8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="woden-impl-dom-1.0M8.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/woden-impl-dom-1.0M8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wsdl4j-1.6.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/wsdl4j-1.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wstx-asl-3.2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/wstx-asl-3.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xbean-2.1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xbean-2.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl-2.8.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xercesImpl-2.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xml-apis-1.3.02.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xml-apis-1.3.02.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbean.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xmlbean.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xpp3_min-1.1.4c.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xpp3_min-1.1.4c.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xstream-1.3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xstream-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xwork-core-2.3.16.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/xwork-core-2.3.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aliyun-java-sdk-core-3.2.3.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-core-3.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aliyun-java-sdk-cs-2.1.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-cs-2.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aliyun-java-sdk-dysmsapi-1.0.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/农+项目源码/农+APP接口源码agroapi/WebRoot/WEB-INF/lib/aliyun-java-sdk-dysmsapi-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
